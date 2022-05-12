@@ -23,3 +23,20 @@ header img {
 a {
     color:rgb(22, 155, 232);
 }
+
+hr {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#Skills{
+    margin-top: 7%;
+}
+
+h2 {
+    color:rgb(22, 155, 232);
+}
+
+li {
+    margin-left: 5%;
+}
