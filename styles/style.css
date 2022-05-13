@@ -20,7 +20,7 @@ header img {
     width: 15%;
 }
 
-a {
+a, h2 {
     color:rgb(22, 155, 232);
 }
 
@@ -35,10 +35,6 @@ hr {
 
 div{
     margin-top: 7%;
-}
-
-h2 {
-    color:rgb(22, 155, 232);
 }
 
 li {
